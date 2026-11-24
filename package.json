@@ -1,0 +1,1 @@
+{"description":"One-line pitch entry for the make.fun competition A Day of One-Line Pitches","license":"MIT","name":"one-line-pitches-day","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
